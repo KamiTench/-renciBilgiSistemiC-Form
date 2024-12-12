@@ -1,0 +1,16 @@
+C:\Users\Han\source\repos\DersUygulama\DersUygulama\bin\Debug\DersUygulama.exe.config
+C:\Users\Han\source\repos\DersUygulama\DersUygulama\bin\Debug\DersUygulama.exe
+C:\Users\Han\source\repos\DersUygulama\DersUygulama\bin\Debug\DersUygulama.pdb
+C:\Users\Han\source\repos\DersUygulama\DersUygulama\obj\Debug\DersUygulama.csproj.AssemblyReference.cache
+C:\Users\Han\source\repos\DersUygulama\DersUygulama\obj\Debug\DersUygulama.Form1.resources
+C:\Users\Han\source\repos\DersUygulama\DersUygulama\obj\Debug\DersUygulama.Properties.Resources.resources
+C:\Users\Han\source\repos\DersUygulama\DersUygulama\obj\Debug\DersUygulama.Öğrenci.resources
+C:\Users\Han\source\repos\DersUygulama\DersUygulama\obj\Debug\DersUygulama.csproj.GenerateResource.cache
+C:\Users\Han\source\repos\DersUygulama\DersUygulama\obj\Debug\DersUygulama.csproj.CoreCompileInputs.cache
+C:\Users\Han\source\repos\DersUygulama\DersUygulama\obj\Debug\DersUygulama.exe
+C:\Users\Han\source\repos\DersUygulama\DersUygulama\obj\Debug\DersUygulama.pdb
+C:\Users\Han\source\repos\DersUygulama\DersUygulama\obj\Debug\DersUygulama.DatabaseHelper.resources
+C:\Users\Han\source\repos\DersUygulama\DersUygulama\obj\Debug\DersUygulama.Ders.resources
+C:\Users\Han\source\repos\DersUygulama\DersUygulama\obj\Debug\DersUygulama.ÖÖğrenci.resources
+C:\Users\Han\source\repos\DersUygulama\DersUygulama\obj\Debug\DersUygulama.DanismanOgretmen.resources
+C:\Users\Han\source\repos\DersUygulama\DersUygulama\obj\Debug\DersUygulama.OgrenciIsleri.resources
